@@ -66,7 +66,7 @@ JpaBaseConfiguration#transactionManager matched:
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.in28minutes.learning.jpa</groupId>
+	<groupId>com.learning.jpa</groupId>
 	<artifactId>jpa-in-10-steps</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
